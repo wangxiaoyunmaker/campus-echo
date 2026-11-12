@@ -1,0 +1,28 @@
+[
+  {
+    "id": "183383476",
+    "name": "教育超市",
+    "box": [
+      -6611,
+      -2668,
+      -6120,
+      -2266
+    ],
+    "floors": 2,
+    "levelsSource": "OSM building:levels=2; render height 96 native pixels (48 per level), not surveyed",
+    "pieces": 156
+  },
+  {
+    "id": "1466443147",
+    "name": "电力附属楼（描述名）",
+    "box": [
+      -6051,
+      2991,
+      -5842,
+      3355
+    ],
+    "floors": 2,
+    "levelsSource": "OSM building:levels=2; render height 96 native pixels (48 per level), not surveyed",
+    "pieces": 60
+  }
+]

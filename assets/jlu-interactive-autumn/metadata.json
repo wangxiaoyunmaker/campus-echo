@@ -1,0 +1,2655 @@
+[
+  {
+    "name": "bike-ride-down-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-down-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-down-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-down-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-left-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-left-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-left-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-left-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-right-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-right-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-right-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-right-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-up-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-up-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-up-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "bike-ride-up-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-down-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-down-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-down-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-down-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-left-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-left-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-left-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-left-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-right-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-right-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-right-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-right-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-up-0-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-up-0-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-up-1-back",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "ebike-ride-up-1-front",
+    "w": 32,
+    "h": 28,
+    "ax": 16,
+    "ay": 24
+  },
+  {
+    "name": "cat-ginger-walk-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-side-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-side-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-down-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-down-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-up-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-walk-up-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-run-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-run-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-run-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-run-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-run-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-run-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-sit-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-sit-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-sit-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-sit-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-sit-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-sit-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-loaf-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-loaf-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-loaf-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-loaf-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-alert-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-alert-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-lie-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-lie-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-stretch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-stretch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-groom-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-groom-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-curl-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-curl-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-rub-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-rub-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-purr-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-purr-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-belly-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-belly-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-twitch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-ginger-twitch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-side-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-side-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-down-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-down-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-up-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-walk-up-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-run-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-run-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-run-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-run-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-run-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-run-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-sit-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-sit-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-sit-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-sit-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-sit-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-sit-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-loaf-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-loaf-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-loaf-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-loaf-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-alert-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-alert-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-lie-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-lie-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-stretch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-stretch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-groom-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-groom-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-curl-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-curl-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-rub-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-rub-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-purr-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-purr-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-belly-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-belly-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-twitch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tabby-twitch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-side-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-side-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-down-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-down-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-up-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-walk-up-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-run-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-run-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-run-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-run-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-run-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-run-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-sit-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-sit-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-sit-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-sit-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-sit-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-sit-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-loaf-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-loaf-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-loaf-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-loaf-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-alert-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-alert-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-lie-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-lie-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-stretch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-stretch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-groom-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-groom-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-curl-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-curl-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-rub-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-rub-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-purr-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-purr-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-belly-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-belly-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-twitch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-tuxedo-twitch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-side-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-side-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-down-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-down-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-up-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-walk-up-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-run-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-run-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-run-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-run-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-run-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-run-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-sit-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-sit-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-sit-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-sit-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-sit-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-sit-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-loaf-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-loaf-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-loaf-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-loaf-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-alert-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-alert-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-lie-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-lie-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-stretch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-stretch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-groom-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-groom-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-curl-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-curl-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-rub-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-rub-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-purr-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-purr-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-belly-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-belly-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-twitch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-calico-twitch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-side-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-side-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-down-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-down-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-up-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-walk-up-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-run-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-run-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-run-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-run-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-run-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-run-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-sit-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-sit-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-sit-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-sit-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-sit-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-sit-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-loaf-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-loaf-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-loaf-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-loaf-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-alert-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-alert-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-lie-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-lie-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-stretch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-stretch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-groom-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-groom-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-curl-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-curl-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-rub-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-rub-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-purr-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-purr-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-belly-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-belly-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-twitch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-black-twitch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-side-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-side-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-down-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-down-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-up-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-walk-up-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-run-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-run-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-run-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-run-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-run-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-run-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-sit-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-sit-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-sit-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-sit-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-sit-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-sit-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-loaf-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-loaf-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-loaf-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-loaf-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-alert-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-alert-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-lie-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-lie-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-stretch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-stretch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-groom-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-groom-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-curl-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-curl-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-rub-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-rub-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-purr-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-purr-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-belly-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-belly-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-twitch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-white-twitch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-side-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-side-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-down-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-down-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-up-2",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-walk-up-3",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-run-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-run-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-run-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-run-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-run-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-run-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-sit-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-sit-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-sit-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-sit-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-sit-up-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-sit-up-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-loaf-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-loaf-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-loaf-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-loaf-down-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-alert-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-alert-down-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-lie-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-lie-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-stretch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-stretch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-groom-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-groom-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-curl-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-curl-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-rub-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-rub-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-purr-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-purr-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-belly-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-belly-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-twitch-side-0",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "cat-gingerwhite-twitch-side-1",
+    "w": 20,
+    "h": 18,
+    "ax": 10,
+    "ay": 16
+  },
+  {
+    "name": "leaf-0-0",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-0-1",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-0-2",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-0-3",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-0-4",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-1-0",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-1-1",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-1-2",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-1-3",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-1-4",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-2-0",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-2-1",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-2-2",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-2-3",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "leaf-2-4",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "petal-0",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "petal-1",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "petal-2",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "petal-3",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "petal-4",
+    "w": 3,
+    "h": 2,
+    "ax": 1,
+    "ay": 1
+  },
+  {
+    "name": "oak-autumn",
+    "w": 86,
+    "h": 100,
+    "ax": 43,
+    "ay": 92
+  },
+  {
+    "name": "poplar-autumn",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "tree-autumn",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "blossom-autumn",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "willow-autumn",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  }
+]

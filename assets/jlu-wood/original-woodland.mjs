@@ -1,0 +1,6 @@
+// Original JLU woodland algorithm Xl/Yl, unchanged bodies. Factory wiring only.
+export function createOriginalWoodlandLayout(I,{TREE=1,ROAD=1,seed=20261022}={}){
+const Ue=seed,gn={TREE},un={ROAD};
+var Il=[1,2,3].map(e=>({kind:`oak`,seed:e})),Ll=[1,2,3].map(e=>({kind:`poplar`,seed:e})),Rl=[1,2].map(e=>({kind:`willow`,seed:e})),zl=[1,2,3].map(e=>({kind:`bush`,seed:e})),Bl=[2,5].map(e=>({kind:`blossom`,seed:e})),Vl=[3,8].map(e=>({kind:`lilac`,seed:e})),Hl={kind:`spruce`},Ul={kind:`rock`},Wl={oak:[2,5],poplar:[1,6],willow:[3,5],spruce:[1,2],blossom:[1,2],tree:[1,2],lilac:[1,1],bush:[1,1],rock:[1,0]},Gl=new Set([`grass`,`wood`,`paved`,`city`]),Kl=new Set([`paved`,`plaza`]),ql={kind:`decor`,id:`treepit`,seed:0,facing:`down`},Jl=(e,t)=>e[Math.floor(t*e.length)%e.length];function Yl(e,t,n,r,i,a,o=Gl){if(!e.open(n,r)||!o.has(e.surfaceAt(n,r))||!e.clear(n-1,r-1,n+1,r+1)||e.near(gn.TREE,n,r,i))return!1;let[s,c]=Wl[t.kind];return e.free(n-s,r-c,n+s,r,un.ROAD)?(e.tree(t,n,r,a),!0):!1}function Xl(e){for(let t=2;t<e.h;t+=5){let n=(t-2)/5;for(let r=n%2*2.5;r<e.w;r+=5){let n=Math.floor(r),i=I(n,t,Ue+31),a=n+Math.floor(i*3)-1,o=t+Math.floor(I(n,t,Ue+32)*3)-1;if(!e.inMap(a,o)||e.surfaceAt(a,o)!==`wood`)continue;let s=I(a,o,Ue+33);Yl(e,s<.45?Jl(Il,s/.45):s<.7?Hl:Jl(s<.88?Ll:zl,s),a,o,2,I(a,o,Ue+34)*2-1)}}}
+return Xl;
+}

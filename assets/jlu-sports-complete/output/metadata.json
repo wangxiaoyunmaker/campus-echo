@@ -1,0 +1,170 @@
+[
+  {
+    "name": "goal-down",
+    "w": 138,
+    "h": 45,
+    "ax": 62,
+    "ay": 32
+  },
+  {
+    "name": "goal-up",
+    "w": 138,
+    "h": 45,
+    "ax": 62,
+    "ay": 59
+  },
+  {
+    "name": "goal-left",
+    "w": 39,
+    "h": 157,
+    "ax": 11,
+    "ay": 150
+  },
+  {
+    "name": "goal-right",
+    "w": 53,
+    "h": 157,
+    "ax": 27,
+    "ay": 150
+  },
+  {
+    "name": "tennis-net-down",
+    "w": 216,
+    "h": 20,
+    "ax": 104,
+    "ay": 14
+  },
+  {
+    "name": "tennis-net-up",
+    "w": 216,
+    "h": 20,
+    "ax": 104,
+    "ay": 14
+  },
+  {
+    "name": "tennis-net-left",
+    "w": 14,
+    "h": 228,
+    "ax": 4,
+    "ay": 221
+  },
+  {
+    "name": "tennis-net-right",
+    "w": 14,
+    "h": 228,
+    "ax": 4,
+    "ay": 221
+  },
+  {
+    "name": "volley-net-down",
+    "w": 196,
+    "h": 44,
+    "ax": 90,
+    "ay": 34
+  },
+  {
+    "name": "volley-net-up",
+    "w": 196,
+    "h": 44,
+    "ax": 90,
+    "ay": 34
+  },
+  {
+    "name": "volley-net-left",
+    "w": 14,
+    "h": 214,
+    "ax": 4,
+    "ay": 207
+  },
+  {
+    "name": "volley-net-right",
+    "w": 14,
+    "h": 214,
+    "ax": 4,
+    "ay": 207
+  },
+  {
+    "name": "corner-flag-down",
+    "w": 16,
+    "h": 22,
+    "ax": 4,
+    "ay": 19
+  },
+  {
+    "name": "corner-flag-up",
+    "w": 16,
+    "h": 22,
+    "ax": 4,
+    "ay": 19
+  },
+  {
+    "name": "corner-flag-left",
+    "w": 16,
+    "h": 22,
+    "ax": 4,
+    "ay": 19
+  },
+  {
+    "name": "corner-flag-right",
+    "w": 16,
+    "h": 22,
+    "ax": 4,
+    "ay": 19
+  },
+  {
+    "name": "court-bench-down",
+    "w": 48,
+    "h": 19,
+    "ax": 24,
+    "ay": 14
+  },
+  {
+    "name": "court-bench-up",
+    "w": 48,
+    "h": 18,
+    "ax": 24,
+    "ay": 13
+  },
+  {
+    "name": "court-bench-left",
+    "w": 14,
+    "h": 62,
+    "ax": 7,
+    "ay": 57
+  },
+  {
+    "name": "court-bench-right",
+    "w": 14,
+    "h": 62,
+    "ax": 7,
+    "ay": 57
+  },
+  {
+    "name": "basketball-hoop-down",
+    "w": 24,
+    "h": 50,
+    "ax": 12,
+    "ay": 43
+  },
+  {
+    "name": "basketball-hoop-up",
+    "w": 24,
+    "h": 50,
+    "ax": 12,
+    "ay": 43
+  },
+  {
+    "name": "basketball-hoop-left",
+    "w": 24,
+    "h": 50,
+    "ax": 12,
+    "ay": 43
+  },
+  {
+    "name": "basketball-hoop-right",
+    "w": 24,
+    "h": 50,
+    "ax": 12,
+    "ay": 43
+  }
+]

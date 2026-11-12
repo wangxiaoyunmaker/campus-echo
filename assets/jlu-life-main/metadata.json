@@ -1,0 +1,513 @@
+[
+  {
+    "name": "ebike-1",
+    "w": 24,
+    "h": 23,
+    "ax": 12,
+    "ay": 17
+  },
+  {
+    "name": "ebike-2",
+    "w": 24,
+    "h": 23,
+    "ax": 12,
+    "ay": 17
+  },
+  {
+    "name": "ebike-3",
+    "w": 24,
+    "h": 23,
+    "ax": 12,
+    "ay": 17
+  },
+  {
+    "name": "stepstone-1",
+    "w": 18,
+    "h": 18,
+    "ax": 9,
+    "ay": 12
+  },
+  {
+    "name": "stepstone-2",
+    "w": 18,
+    "h": 18,
+    "ax": 9,
+    "ay": 12
+  },
+  {
+    "name": "stepstone-3",
+    "w": 18,
+    "h": 18,
+    "ax": 9,
+    "ay": 12
+  },
+  {
+    "name": "lotus-1",
+    "w": 104,
+    "h": 68,
+    "ax": 52,
+    "ay": 48
+  },
+  {
+    "name": "lotus-2",
+    "w": 104,
+    "h": 68,
+    "ax": 52,
+    "ay": 48
+  },
+  {
+    "name": "lotus-3",
+    "w": 104,
+    "h": 68,
+    "ax": 52,
+    "ay": 48
+  },
+  {
+    "name": "reeds-1",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 24
+  },
+  {
+    "name": "reeds-2",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 24
+  },
+  {
+    "name": "reeds-3",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 24
+  },
+  {
+    "name": "flowers-1",
+    "w": 18,
+    "h": 19,
+    "ax": 9,
+    "ay": 13
+  },
+  {
+    "name": "flowers-2",
+    "w": 18,
+    "h": 19,
+    "ax": 9,
+    "ay": 13
+  },
+  {
+    "name": "flowers-3",
+    "w": 18,
+    "h": 19,
+    "ax": 9,
+    "ay": 13
+  },
+  {
+    "name": "flowers2-1",
+    "w": 34,
+    "h": 19,
+    "ax": 17,
+    "ay": 13
+  },
+  {
+    "name": "flowers2-2",
+    "w": 34,
+    "h": 19,
+    "ax": 17,
+    "ay": 13
+  },
+  {
+    "name": "flowers2-3",
+    "w": 34,
+    "h": 19,
+    "ax": 17,
+    "ay": 13
+  },
+  {
+    "name": "flowers3-1",
+    "w": 50,
+    "h": 19,
+    "ax": 25,
+    "ay": 13
+  },
+  {
+    "name": "flowers3-2",
+    "w": 50,
+    "h": 19,
+    "ax": 25,
+    "ay": 13
+  },
+  {
+    "name": "flowers3-3",
+    "w": 50,
+    "h": 19,
+    "ax": 25,
+    "ay": 13
+  },
+  {
+    "name": "flower-round-1",
+    "w": 64,
+    "h": 21,
+    "ax": 32,
+    "ay": 14
+  },
+  {
+    "name": "flower-round-2",
+    "w": 64,
+    "h": 21,
+    "ax": 32,
+    "ay": 14
+  },
+  {
+    "name": "flower-round-3",
+    "w": 64,
+    "h": 21,
+    "ax": 32,
+    "ay": 14
+  },
+  {
+    "name": "duck-drake-side-0",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-drake-side-1",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-drake-side-2",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-drake-side-3",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-drake-down-0",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-drake-down-1",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-drake-up-0",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-drake-up-1",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-hen-side-0",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-hen-side-1",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-hen-side-2",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-hen-side-3",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-hen-down-0",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-hen-down-1",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-hen-up-0",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-hen-up-1",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-white-side-0",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-white-side-1",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-white-side-2",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-white-side-3",
+    "w": 19,
+    "h": 13,
+    "ax": 9,
+    "ay": 10
+  },
+  {
+    "name": "duck-white-down-0",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-white-down-1",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-white-up-0",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duck-white-up-1",
+    "w": 13,
+    "h": 14,
+    "ax": 6,
+    "ay": 11
+  },
+  {
+    "name": "duckling-side-0",
+    "w": 12,
+    "h": 10,
+    "ax": 6,
+    "ay": 7
+  },
+  {
+    "name": "duckling-side-1",
+    "w": 12,
+    "h": 10,
+    "ax": 6,
+    "ay": 7
+  },
+  {
+    "name": "duckling-down-0",
+    "w": 9,
+    "h": 10,
+    "ax": 4,
+    "ay": 7
+  },
+  {
+    "name": "duckling-down-1",
+    "w": 9,
+    "h": 10,
+    "ax": 4,
+    "ay": 7
+  },
+  {
+    "name": "duckling-up-0",
+    "w": 9,
+    "h": 10,
+    "ax": 4,
+    "ay": 7
+  },
+  {
+    "name": "duckling-up-1",
+    "w": 9,
+    "h": 10,
+    "ax": 4,
+    "ay": 7
+  },
+  {
+    "name": "sparrow-0",
+    "w": 13,
+    "h": 12,
+    "ax": 5,
+    "ay": 10
+  },
+  {
+    "name": "sparrow-1",
+    "w": 13,
+    "h": 12,
+    "ax": 5,
+    "ay": 10
+  },
+  {
+    "name": "sparrow-2",
+    "w": 13,
+    "h": 12,
+    "ax": 5,
+    "ay": 10
+  },
+  {
+    "name": "sparrow-3",
+    "w": 13,
+    "h": 12,
+    "ax": 5,
+    "ay": 10
+  },
+  {
+    "name": "sparrow-4",
+    "w": 13,
+    "h": 12,
+    "ax": 5,
+    "ay": 10
+  },
+  {
+    "name": "bird-0",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "bird-1",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "bird-2",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "bird-3",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "bird-shadow-0",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "bird-shadow-1",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "bird-shadow-2",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "bird-shadow-3",
+    "w": 9,
+    "h": 4,
+    "ax": 4,
+    "ay": 2
+  },
+  {
+    "name": "butterfly-white-0",
+    "w": 7,
+    "h": 5,
+    "ax": 3,
+    "ay": 2
+  },
+  {
+    "name": "butterfly-white-1",
+    "w": 7,
+    "h": 5,
+    "ax": 3,
+    "ay": 2
+  },
+  {
+    "name": "butterfly-white-2",
+    "w": 7,
+    "h": 5,
+    "ax": 3,
+    "ay": 2
+  },
+  {
+    "name": "butterfly-yellow-0",
+    "w": 7,
+    "h": 5,
+    "ax": 3,
+    "ay": 2
+  },
+  {
+    "name": "butterfly-yellow-1",
+    "w": 7,
+    "h": 5,
+    "ax": 3,
+    "ay": 2
+  },
+  {
+    "name": "butterfly-yellow-2",
+    "w": 7,
+    "h": 5,
+    "ax": 3,
+    "ay": 2
+  }
+]

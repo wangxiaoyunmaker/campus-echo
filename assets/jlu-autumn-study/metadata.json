@@ -1,0 +1,311 @@
+[
+  {
+    "name": "ground-spring",
+    "w": 512,
+    "h": 512
+  },
+  {
+    "name": "ground-summer",
+    "w": 512,
+    "h": 512
+  },
+  {
+    "name": "ground-autumn",
+    "w": 512,
+    "h": 512
+  },
+  {
+    "name": "oak-autumn-0",
+    "w": 86,
+    "h": 100,
+    "ax": 43,
+    "ay": 92
+  },
+  {
+    "name": "oak-autumn-1",
+    "w": 86,
+    "h": 100,
+    "ax": 43,
+    "ay": 92
+  },
+  {
+    "name": "oak-autumn-2",
+    "w": 86,
+    "h": 100,
+    "ax": 43,
+    "ay": 92
+  },
+  {
+    "name": "oak-autumn-3",
+    "w": 86,
+    "h": 100,
+    "ax": 43,
+    "ay": 92
+  },
+  {
+    "name": "oak-autumn-4",
+    "w": 86,
+    "h": 100,
+    "ax": 43,
+    "ay": 92
+  },
+  {
+    "name": "oak-autumn-5",
+    "w": 86,
+    "h": 100,
+    "ax": 43,
+    "ay": 92
+  },
+  {
+    "name": "poplar-autumn-0",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "poplar-autumn-1",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "poplar-autumn-2",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "poplar-autumn-3",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "poplar-autumn-4",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "poplar-autumn-5",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "tree-autumn-0",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "tree-autumn-1",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "tree-autumn-2",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "tree-autumn-3",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "tree-autumn-4",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "tree-autumn-5",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "blossom-autumn-0",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "blossom-autumn-1",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "blossom-autumn-2",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "blossom-autumn-3",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "blossom-autumn-4",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "blossom-autumn-5",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "willow-autumn-0",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "willow-autumn-1",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "willow-autumn-2",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "willow-autumn-3",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "willow-autumn-4",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "willow-autumn-5",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "bush-autumn-0",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 20
+  },
+  {
+    "name": "bush-autumn-1",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 20
+  },
+  {
+    "name": "bush-autumn-2",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 20
+  },
+  {
+    "name": "bush-autumn-3",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 20
+  },
+  {
+    "name": "bush-autumn-4",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 20
+  },
+  {
+    "name": "bush-autumn-5",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 20
+  },
+  {
+    "name": "lilac-autumn-0",
+    "w": 32,
+    "h": 30,
+    "ax": 16,
+    "ay": 23
+  },
+  {
+    "name": "lilac-autumn-1",
+    "w": 32,
+    "h": 30,
+    "ax": 16,
+    "ay": 23
+  },
+  {
+    "name": "lilac-autumn-2",
+    "w": 32,
+    "h": 30,
+    "ax": 16,
+    "ay": 23
+  },
+  {
+    "name": "lilac-autumn-3",
+    "w": 32,
+    "h": 30,
+    "ax": 16,
+    "ay": 23
+  },
+  {
+    "name": "lilac-autumn-4",
+    "w": 32,
+    "h": 30,
+    "ax": 16,
+    "ay": 23
+  },
+  {
+    "name": "lilac-autumn-5",
+    "w": 32,
+    "h": 30,
+    "ax": 16,
+    "ay": 23
+  }
+]

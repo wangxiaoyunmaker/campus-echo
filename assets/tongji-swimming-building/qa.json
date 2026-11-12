@@ -1,0 +1,10 @@
+{
+  "chunks": 9,
+  "pieces": 862,
+  "atlasBoundsPass": true,
+  "sourceVertices": 6,
+  "originalArea": 1440154.5,
+  "partsArea": 1440099,
+  "partitionRelativeError": 0.00003853753191063875,
+  "visual": "Actually viewed compiled preview. Curved white roof central dark strip and rear low rectangle; no change to collision. Geometry split and height illustrative pending exterior reference."
+}

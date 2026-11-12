@@ -1,0 +1,172 @@
+[
+  {
+    "name": "stadium",
+    "w": 192,
+    "h": 320,
+    "kind": "sports-or-road",
+    "source": "original SW mark renderer; dimensions chosen for sample, not actual Tongji geometry"
+  },
+  {
+    "name": "basketball-court",
+    "w": 96,
+    "h": 160,
+    "kind": "sports-or-road",
+    "source": "original SW mark renderer; dimensions chosen for sample, not actual Tongji geometry"
+  },
+  {
+    "name": "stands",
+    "w": 30,
+    "h": 144,
+    "kind": "sports-or-road",
+    "source": "original SW mark renderer; dimensions chosen for sample, not actual Tongji geometry"
+  },
+  {
+    "name": "zebra-crossing",
+    "w": 64,
+    "h": 32,
+    "kind": "sports-or-road",
+    "source": "original SW mark renderer; dimensions chosen for sample, not actual Tongji geometry"
+  },
+  {
+    "name": "road-centerline",
+    "w": 64,
+    "h": 16,
+    "kind": "sports-or-road",
+    "source": "original SW mark renderer; dimensions chosen for sample, not actual Tongji geometry"
+  },
+  {
+    "name": "flowers-1",
+    "w": 18,
+    "h": 19,
+    "ax": 9,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 1
+  },
+  {
+    "name": "flowers-2",
+    "w": 18,
+    "h": 19,
+    "ax": 9,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 2
+  },
+  {
+    "name": "flowers-3",
+    "w": 18,
+    "h": 19,
+    "ax": 9,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 3
+  },
+  {
+    "name": "flowers2-1",
+    "w": 34,
+    "h": 19,
+    "ax": 17,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 1
+  },
+  {
+    "name": "flowers2-2",
+    "w": 34,
+    "h": 19,
+    "ax": 17,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 2
+  },
+  {
+    "name": "flowers2-3",
+    "w": 34,
+    "h": 19,
+    "ax": 17,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 3
+  },
+  {
+    "name": "flowers3-1",
+    "w": 50,
+    "h": 19,
+    "ax": 25,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 1
+  },
+  {
+    "name": "flowers3-2",
+    "w": 50,
+    "h": 19,
+    "ax": 25,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 2
+  },
+  {
+    "name": "flowers3-3",
+    "w": 50,
+    "h": 19,
+    "ax": 25,
+    "ay": 13,
+    "kind": "flowers",
+    "variant": 3
+  },
+  {
+    "name": "flower-round-1",
+    "w": 64,
+    "h": 21,
+    "ax": 32,
+    "ay": 14,
+    "kind": "flowers",
+    "variant": 1
+  },
+  {
+    "name": "flower-round-2",
+    "w": 64,
+    "h": 21,
+    "ax": 32,
+    "ay": 14,
+    "kind": "flowers",
+    "variant": 2
+  },
+  {
+    "name": "flower-round-3",
+    "w": 64,
+    "h": 21,
+    "ax": 32,
+    "ay": 14,
+    "kind": "flowers",
+    "variant": 3
+  },
+  {
+    "name": "shrub-1",
+    "w": 18,
+    "h": 20,
+    "ax": 9,
+    "ay": 14,
+    "kind": "flowers",
+    "variant": 1
+  },
+  {
+    "name": "shrub-2",
+    "w": 18,
+    "h": 20,
+    "ax": 9,
+    "ay": 14,
+    "kind": "flowers",
+    "variant": 2
+  },
+  {
+    "name": "shrub-3",
+    "w": 18,
+    "h": 20,
+    "ax": 9,
+    "ay": 14,
+    "kind": "flowers",
+    "variant": 3
+  }
+]

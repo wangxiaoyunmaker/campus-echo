@@ -1,0 +1,15 @@
+[
+  {
+    "id": "18783857",
+    "name": "129体育馆",
+    "box": [
+      -10114,
+      4293,
+      -8079,
+      5035
+    ],
+    "floors": 1,
+    "levelsSource": "UNVERIFIED height/storeys: 96 native px is illustrative only, floors=1 renderer placeholder not a factual storey count",
+    "pieces": 517
+  }
+]

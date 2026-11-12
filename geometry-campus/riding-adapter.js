@@ -1,0 +1,12 @@
+// Original JLU Oh control + original double-layer frames. Coordinate and canvas adapters only.
+import {createOriginalRideController} from '../assets/jlu-interactive-autumn/original-ride-controller.mjs';
+export async function createRiding({props,player,rect,notice}){
+ const base='../assets/jlu-interactive-autumn/',meta=await fetch(base+'metadata.json').then(r=>r.json()),art=new Map();
+ await Promise.all(meta.filter(m=>m.name.includes('-ride-')).map(async m=>{const image=new Image();image.src=base+'png/'+m.name+'.png';await image.decode();art.set(m.name,{...m,image})}));
+ const ox=rect.x*6-64,oy=rect.y*6-64,w=Math.ceil((rect.w*6+128)/16),h=Math.ceil((rect.h*6+128)/16),chunksX=Math.ceil(w*16/512),chunksY=Math.ceil(h*16/512);
+ const vehicles=props.items.filter(p=>p.name==='bike-yellow-main'||p.name.startsWith('ebike-'));
+ const world={w,h,chunksX,chunksY,arts:new Map([['bike',{kind:'bike',color:'yellow'}],['ebike',{kind:'decor',id:'ebike',seed:0}]]),props:vehicles.map(p=>({x:p.x*6-ox,y:p.y*6-oy,art:p.name==='bike-yellow-main'?'bike':'ebike',source:p})),solid:new Uint8Array(w*h),chunkOf:(x,y)=>Math.floor(y/512)*chunksX+Math.floor(x/512)};
+ let mounted=null,stride=0;const hostPlayer={get x(){return player.x*6-ox},get y(){return player.y*6-oy},moving:false,setRide(scene,layer,ride){mounted=ride;stride=0}};
+ const C=createOriginalRideController(),control=new C({player:hostPlayer,scene:null,layer:null,touch:false,setHonk:()=>{},notice:()=>notice('已骑行：WASD / 方向键移动，E 或按钮下车；铃声暂未接入')});control.setWorld(world,world,{hideProp:(p,hide)=>p.source.hidden=hide});
+ return {toggle(){if(control.riding)control.toggle();else{const target=control.near(hostPlayer.x,hostPlayer.y,55);if(target)control.toggle(target);else notice('请走到自行车或电动车旁，按 E 骑行',2000)}},pace:()=>control.pace(1),update(dt,moving){hostPlayer.moving=moving;if(moving)stride+=dt*1000*control.pace(1);control.update()},get mounted(){return mounted},draw(c,actor,direction){if(!mounted)return false;const type=mounted.mount,dir=['down','left','right','up'][direction],phase=hostPlayer.moving?Math.floor(stride/110)%2:0;const draw=side=>{const a=art.get(`${type}-ride-${dir}-${phase}-${side}`);c.drawImage(a.image,player.x-a.ax/6,player.y-a.ay/6,a.w/6,a.h/6)};draw('back');c.drawImage(actor,0,direction*32,16,28,player.x-8/6,player.y-34/6,16/6,28/6);draw('front');return true},stats:()=>({...control.debug(),source:'original JLU Oh and rider frames',hornAudio:false}),vehicles:()=>vehicles.map(p=>({x:p.x,y:p.y,name:p.name}))};
+}

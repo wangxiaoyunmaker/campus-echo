@@ -1,0 +1,26 @@
+[
+  {
+    "view": "main",
+    "sameSixGroundVertices": true,
+    "atlasBounds": true,
+    "chunks": 4,
+    "pieces": 164
+  },
+  {
+    "view": "-side-diagnostic",
+    "sameSixGroundVertices": true,
+    "atlasBounds": true,
+    "chunks": 6,
+    "pieces": 173
+  },
+  {
+    "profile": [
+      110,
+      168,
+      192,
+      168,
+      110
+    ],
+    "visualQA": "Main and 90-degree diagnostic previews actually viewed: blue curved roof, white filled arched gable, flat lower facade; main long-side view has almost edge-on short end."
+  }
+]

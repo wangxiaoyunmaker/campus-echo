@@ -1,0 +1,301 @@
+[
+  {
+    "id": "125456038",
+    "name": "生态楼",
+    "box": [
+      -5661,
+      -8623,
+      -4974,
+      -7258
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 384
+  },
+  {
+    "id": "125456039",
+    "name": "工程中心",
+    "box": [
+      -6236,
+      -8746,
+      -5338,
+      -8244
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 221
+  },
+  {
+    "id": "125456040",
+    "name": "明净楼",
+    "box": [
+      -6638,
+      -8241,
+      -6013,
+      -6796
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 408
+  },
+  {
+    "id": "181555241",
+    "name": "同济大学中德学部",
+    "box": [
+      -9657,
+      -1328,
+      -8945,
+      -7
+    ],
+    "floors": 11,
+    "levelsSource": "OSM tag",
+    "pieces": 291
+  },
+  {
+    "id": "183383457",
+    "name": "同济大学人文学院",
+    "box": [
+      -10497,
+      -1226,
+      -9698,
+      2
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 268
+  },
+  {
+    "id": "183383471",
+    "name": "城规学院C楼",
+    "box": [
+      1057,
+      4533,
+      1542,
+      5665
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 262
+  },
+  {
+    "id": "183383475",
+    "name": "城规学院D楼",
+    "box": [
+      405,
+      4055,
+      724,
+      5657
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 248
+  },
+  {
+    "id": "183383954",
+    "name": "瑞安楼",
+    "box": [
+      -2088,
+      -578,
+      -852,
+      745
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 488
+  },
+  {
+    "id": "183383958",
+    "name": "物理馆",
+    "box": [
+      -3493,
+      -813,
+      -3144,
+      259
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 219
+  },
+  {
+    "id": "183383959",
+    "name": "信息中心",
+    "box": [
+      -4629,
+      -772,
+      -4271,
+      91
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 197
+  },
+  {
+    "id": "183383962",
+    "name": "测绘与地理信息学院",
+    "box": [
+      -5301,
+      900,
+      -4919,
+      1810
+    ],
+    "floors": 5,
+    "levelsSource": "OSM tag",
+    "pieces": 152
+  },
+  {
+    "id": "183383963",
+    "name": "教学实践机房",
+    "box": [
+      -4048,
+      -746,
+      -3805,
+      107
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 130
+  },
+  {
+    "id": "184542420",
+    "name": "同济大学医学楼",
+    "box": [
+      -9511,
+      385,
+      -7431,
+      1829
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 573
+  },
+  {
+    "id": "380537300",
+    "name": "大学生活动中心",
+    "box": [
+      -4388,
+      -3130,
+      -4124,
+      -2425
+    ],
+    "floors": 5,
+    "levelsSource": "OSM tag",
+    "pieces": 122
+  },
+  {
+    "id": "380537301",
+    "name": "经纬楼",
+    "box": [
+      -4444,
+      -2255,
+      -3948,
+      -1449
+    ],
+    "floors": 3,
+    "levelsSource": "OSM tag",
+    "pieces": 166
+  },
+  {
+    "id": "429244211",
+    "name": "同济大学经济与管理学院",
+    "box": [
+      -2586,
+      9063,
+      -1828,
+      10006
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 258
+  },
+  {
+    "id": "1364684874",
+    "name": "同济大学出版社",
+    "box": [
+      -10574,
+      7221,
+      -9628,
+      7950
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 269
+  },
+  {
+    "id": "1489462970",
+    "name": "未命名教学建筑",
+    "box": [
+      -10522,
+      -3074,
+      -9486,
+      -1307
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 528
+  },
+  {
+    "id": "1536414911",
+    "name": "未命名教学建筑",
+    "box": [
+      1180,
+      4382,
+      1233,
+      4627
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 16
+  },
+  {
+    "id": "20672267",
+    "name": "工程试验馆",
+    "box": [
+      -4608,
+      353,
+      -3195,
+      2132
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 1491
+  },
+  {
+    "id": "20314136",
+    "name": "同济大学建筑设计研究院",
+    "box": [
+      -6777,
+      9535,
+      -5386,
+      12733
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 1208
+  },
+  {
+    "id": "20314138",
+    "name": "同济大学生命科学大楼",
+    "box": [
+      -9700,
+      9063,
+      -7927,
+      10864
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 1190
+  },
+  {
+    "id": "1361623739",
+    "name": "未命名教学建筑",
+    "box": [
+      -9624,
+      11306,
+      -8488,
+      12929
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 540
+  }
+]

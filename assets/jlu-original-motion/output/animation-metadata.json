@@ -1,0 +1,268 @@
+[
+  {
+    "name": "wake-side-big-0",
+    "w": 32,
+    "h": 23,
+    "ax": 23,
+    "ay": 11
+  },
+  {
+    "name": "wake-side-big-1",
+    "w": 32,
+    "h": 23,
+    "ax": 23,
+    "ay": 11
+  },
+  {
+    "name": "wake-side-big-2",
+    "w": 32,
+    "h": 23,
+    "ax": 23,
+    "ay": 11
+  },
+  {
+    "name": "wake-side-big-3",
+    "w": 32,
+    "h": 23,
+    "ax": 23,
+    "ay": 11
+  },
+  {
+    "name": "wake-side-small-0",
+    "w": 21,
+    "h": 19,
+    "ax": 15,
+    "ay": 9
+  },
+  {
+    "name": "wake-side-small-1",
+    "w": 21,
+    "h": 19,
+    "ax": 15,
+    "ay": 9
+  },
+  {
+    "name": "wake-side-small-2",
+    "w": 21,
+    "h": 19,
+    "ax": 15,
+    "ay": 9
+  },
+  {
+    "name": "wake-side-small-3",
+    "w": 21,
+    "h": 19,
+    "ax": 15,
+    "ay": 9
+  },
+  {
+    "name": "wake-down-big-0",
+    "w": 23,
+    "h": 26,
+    "ax": 11,
+    "ay": 23
+  },
+  {
+    "name": "wake-down-big-1",
+    "w": 23,
+    "h": 26,
+    "ax": 11,
+    "ay": 23
+  },
+  {
+    "name": "wake-down-big-2",
+    "w": 23,
+    "h": 26,
+    "ax": 11,
+    "ay": 23
+  },
+  {
+    "name": "wake-down-big-3",
+    "w": 23,
+    "h": 26,
+    "ax": 11,
+    "ay": 23
+  },
+  {
+    "name": "wake-down-small-0",
+    "w": 19,
+    "h": 18,
+    "ax": 9,
+    "ay": 15
+  },
+  {
+    "name": "wake-down-small-1",
+    "w": 19,
+    "h": 18,
+    "ax": 9,
+    "ay": 15
+  },
+  {
+    "name": "wake-down-small-2",
+    "w": 19,
+    "h": 18,
+    "ax": 9,
+    "ay": 15
+  },
+  {
+    "name": "wake-down-small-3",
+    "w": 19,
+    "h": 18,
+    "ax": 9,
+    "ay": 15
+  },
+  {
+    "name": "wake-up-big-0",
+    "w": 23,
+    "h": 31,
+    "ax": 11,
+    "ay": 7
+  },
+  {
+    "name": "wake-up-big-1",
+    "w": 23,
+    "h": 31,
+    "ax": 11,
+    "ay": 7
+  },
+  {
+    "name": "wake-up-big-2",
+    "w": 23,
+    "h": 31,
+    "ax": 11,
+    "ay": 7
+  },
+  {
+    "name": "wake-up-big-3",
+    "w": 23,
+    "h": 31,
+    "ax": 11,
+    "ay": 7
+  },
+  {
+    "name": "wake-up-small-0",
+    "w": 19,
+    "h": 21,
+    "ax": 9,
+    "ay": 5
+  },
+  {
+    "name": "wake-up-small-1",
+    "w": 19,
+    "h": 21,
+    "ax": 9,
+    "ay": 5
+  },
+  {
+    "name": "wake-up-small-2",
+    "w": 19,
+    "h": 21,
+    "ax": 9,
+    "ay": 5
+  },
+  {
+    "name": "wake-up-small-3",
+    "w": 19,
+    "h": 21,
+    "ax": 9,
+    "ay": 5
+  },
+  {
+    "name": "sparkle-0",
+    "w": 5,
+    "h": 5,
+    "ax": 2,
+    "ay": 2
+  },
+  {
+    "name": "sparkle-1",
+    "w": 5,
+    "h": 5,
+    "ax": 2,
+    "ay": 2
+  },
+  {
+    "name": "sparkle-2",
+    "w": 5,
+    "h": 5,
+    "ax": 2,
+    "ay": 2
+  },
+  {
+    "name": "sparkle-3",
+    "w": 5,
+    "h": 5,
+    "ax": 2,
+    "ay": 2
+  },
+  {
+    "name": "ripple-0",
+    "w": 19,
+    "h": 11,
+    "ax": 9,
+    "ay": 6
+  },
+  {
+    "name": "ripple-1",
+    "w": 19,
+    "h": 11,
+    "ax": 9,
+    "ay": 6
+  },
+  {
+    "name": "ripple-2",
+    "w": 19,
+    "h": 11,
+    "ax": 9,
+    "ay": 6
+  },
+  {
+    "name": "ripple-3",
+    "w": 19,
+    "h": 11,
+    "ax": 9,
+    "ay": 6
+  },
+  {
+    "name": "ripple-4",
+    "w": 19,
+    "h": 11,
+    "ax": 9,
+    "ay": 6
+  },
+  {
+    "name": "ripple-5",
+    "w": 19,
+    "h": 11,
+    "ax": 9,
+    "ay": 6
+  },
+  {
+    "name": "drop-0",
+    "w": 9,
+    "h": 7,
+    "ax": 4,
+    "ay": 4
+  },
+  {
+    "name": "drop-1",
+    "w": 9,
+    "h": 7,
+    "ax": 4,
+    "ay": 4
+  },
+  {
+    "name": "drop-2",
+    "w": 9,
+    "h": 7,
+    "ax": 4,
+    "ay": 4
+  },
+  {
+    "name": "drop-3",
+    "w": 9,
+    "h": 7,
+    "ax": 4,
+    "ay": 4
+  }
+]

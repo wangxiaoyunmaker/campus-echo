@@ -1,0 +1,18 @@
+{
+  "width": 128,
+  "height": 192,
+  "anchor": [
+    64,
+    187
+  ],
+  "visibleHeightApprox": 180,
+  "source": "Imagegen photo-guided Tongji Mao statue; original source photo 2018; not JLU generic statue",
+  "scaleBasis": "historical total height about10.1m at18 nativepx/m; not current survey",
+  "notes": [
+    "raised right hand",
+    "gray stone long double-breasted coat",
+    "red brown pedestal",
+    "blank pale plaque; no invented inscription",
+    "nearest-neighbor downsample explicitly requested"
+  ]
+}

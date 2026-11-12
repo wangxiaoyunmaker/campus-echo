@@ -1,0 +1,42 @@
+{
+  "slab": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64,
+    "ax": null,
+    "ay": null
+  },
+  "herring": {
+    "x": 64,
+    "y": 0,
+    "w": 64,
+    "h": 64,
+    "ax": null,
+    "ay": null
+  },
+  "paver": {
+    "x": 128,
+    "y": 0,
+    "w": 64,
+    "h": 64,
+    "ax": null,
+    "ay": null
+  },
+  "sidewalk": {
+    "x": 192,
+    "y": 0,
+    "w": 64,
+    "h": 64,
+    "ax": null,
+    "ay": null
+  },
+  "tarmac": {
+    "x": 256,
+    "y": 0,
+    "w": 64,
+    "h": 64,
+    "ax": null,
+    "ay": null
+  }
+}

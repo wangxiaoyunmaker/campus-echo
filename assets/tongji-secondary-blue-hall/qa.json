@@ -1,0 +1,15 @@
+{
+  "target": "1489081642",
+  "main": {
+    "chunks": 9,
+    "pieces": 336
+  },
+  "side": {
+    "chunks": 9,
+    "pieces": 239
+  },
+  "atlasBoundsPass": true,
+  "geometryReextrusionRotationPass": true,
+  "groundVertices": 4,
+  "visual": "Both previews actually inspected: blue curved roof + off-white walls/pink base; independent 90-degree view exposes filled curved gable. Not a stretched PNG or flat fallback color."
+}

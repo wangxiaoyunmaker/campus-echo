@@ -1,0 +1,756 @@
+[
+  {
+    "id": "125461261",
+    "name": "西苑饮食广场",
+    "box": [
+      -8235,
+      -6409,
+      -7377,
+      -4692
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 393
+  },
+  {
+    "id": "181555246",
+    "name": "普通建筑（示意）",
+    "box": [
+      1420,
+      -62,
+      1718,
+      922
+    ],
+    "floors": 5,
+    "levelsSource": "OSM level tag",
+    "pieces": 178
+  },
+  {
+    "id": "181555254",
+    "name": "三好坞餐厅",
+    "box": [
+      760,
+      1444,
+      1269,
+      2373
+    ],
+    "floors": 3,
+    "levelsSource": "OSM level tag",
+    "pieces": 215
+  },
+  {
+    "id": "183383458",
+    "name": "海洋学院",
+    "box": [
+      -2067,
+      -1946,
+      -976,
+      -973
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 402
+  },
+  {
+    "id": "183383460",
+    "name": "红楼（B楼）",
+    "box": [
+      855,
+      2657,
+      1502,
+      4475
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 350
+  },
+  {
+    "id": "183383462",
+    "name": "文远楼（A楼）",
+    "box": [
+      -253,
+      2089,
+      457,
+      3917
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 299
+  },
+  {
+    "id": "183383466",
+    "name": "普通建筑（示意）",
+    "box": [
+      -5635,
+      6753,
+      -5273,
+      7245
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 98
+  },
+  {
+    "id": "183383467",
+    "name": "普通建筑（示意）",
+    "box": [
+      -738,
+      -1924,
+      -376,
+      -937
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 215
+  },
+  {
+    "id": "183383477",
+    "name": "同济大学校史馆",
+    "box": [
+      -851,
+      7404,
+      -81,
+      7852
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 197
+  },
+  {
+    "id": "183383483",
+    "name": "数学科学院",
+    "box": [
+      -6649,
+      4123,
+      -5125,
+      6104
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 458
+  },
+  {
+    "id": "183383511",
+    "name": "普通建筑（示意）",
+    "box": [
+      -1831,
+      882,
+      -1471,
+      1561
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 192
+  },
+  {
+    "id": "183383951",
+    "name": "化学馆",
+    "box": [
+      -1540,
+      989,
+      -618,
+      2484
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 508
+  },
+  {
+    "id": "183383955",
+    "name": "普通建筑（示意）",
+    "box": [
+      -772,
+      119,
+      -455,
+      833
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 132
+  },
+  {
+    "id": "183383956",
+    "name": "普通建筑（示意）",
+    "box": [
+      -1043,
+      -256,
+      -737,
+      28
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 91
+  },
+  {
+    "id": "183383957",
+    "name": "学苑饮食广场",
+    "box": [
+      -5668,
+      1908,
+      -5045,
+      3399
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 309
+  },
+  {
+    "id": "183383960",
+    "name": "普通建筑（示意）",
+    "box": [
+      -706,
+      -277,
+      -415,
+      165
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 106
+  },
+  {
+    "id": "183383961",
+    "name": "普通建筑（示意）",
+    "box": [
+      -793,
+      -516,
+      -398,
+      -173
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 72
+  },
+  {
+    "id": "183383964",
+    "name": "普通建筑（示意）",
+    "box": [
+      -1346,
+      911,
+      -969,
+      1291
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 121
+  },
+  {
+    "id": "183383965",
+    "name": "普通建筑（示意）",
+    "box": [
+      -1458,
+      1452,
+      -1067,
+      2205
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 211
+  },
+  {
+    "id": "183388120",
+    "name": "普通建筑（示意）",
+    "box": [
+      -415,
+      5778,
+      371,
+      6437
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 201
+  },
+  {
+    "id": "183388123",
+    "name": "马克思主义学院",
+    "box": [
+      470,
+      5770,
+      822,
+      6444
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 101
+  },
+  {
+    "id": "183388125",
+    "name": "普通建筑（示意）",
+    "box": [
+      -4463,
+      9271,
+      -3450,
+      9996
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 282
+  },
+  {
+    "id": "183388127",
+    "name": "同济大学设计与创意学院",
+    "box": [
+      -4501,
+      8888,
+      -3877,
+      9626
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 193
+  },
+  {
+    "id": "183964058",
+    "name": "同济大学菜鸟驿站",
+    "box": [
+      1490,
+      1238,
+      1722,
+      1804
+    ],
+    "floors": 1,
+    "levelsSource": "OSM level tag",
+    "pieces": 86
+  },
+  {
+    "id": "183964060",
+    "name": "普通建筑（示意）",
+    "box": [
+      -2651,
+      -7442,
+      -1436,
+      -6526
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 298
+  },
+  {
+    "id": "183964066",
+    "name": "新北苑食堂",
+    "box": [
+      -271,
+      -4408,
+      1191,
+      -3208
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 498
+  },
+  {
+    "id": "188231251",
+    "name": "同济大学校医院",
+    "box": [
+      -10386,
+      358,
+      -9688,
+      1626
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 205
+  },
+  {
+    "id": "189248345",
+    "name": "普通建筑（示意）",
+    "box": [
+      -7746,
+      -6386,
+      -7472,
+      -6040
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 70
+  },
+  {
+    "id": "189248346",
+    "name": "普通建筑（示意）",
+    "box": [
+      -8757,
+      -5508,
+      -8424,
+      -4224
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 132
+  },
+  {
+    "id": "189478398",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3575,
+      -2203,
+      -3029,
+      -1923
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 148
+  },
+  {
+    "id": "189478399",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3561,
+      -1967,
+      -3098,
+      -1122
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 147
+  },
+  {
+    "id": "189478409",
+    "name": "三好坞餐厅",
+    "box": [
+      404,
+      1508,
+      602,
+      1816
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 36
+  },
+  {
+    "id": "191911298",
+    "name": "普通建筑（示意）",
+    "box": [
+      -679,
+      -2401,
+      -280,
+      -2035
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 95
+  },
+  {
+    "id": "387456859",
+    "name": "普通建筑（示意）",
+    "box": [
+      -6419,
+      -6368,
+      -5733,
+      -5291
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 238
+  },
+  {
+    "id": "387456860",
+    "name": "普通建筑（示意）",
+    "box": [
+      -6715,
+      -6346,
+      -6489,
+      -5240
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 144
+  },
+  {
+    "id": "387456861",
+    "name": "普通建筑（示意）",
+    "box": [
+      -6345,
+      -5306,
+      -5762,
+      -4792
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 192
+  },
+  {
+    "id": "387456864",
+    "name": "普通建筑（示意）",
+    "box": [
+      -5530,
+      -5856,
+      -5232,
+      -4758
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 211
+  },
+  {
+    "id": "406761638",
+    "name": "北苑食堂",
+    "box": [
+      841,
+      -4958,
+      1651,
+      -3961
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 216
+  },
+  {
+    "id": "436877289",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3059,
+      -7326,
+      -2484,
+      -6542
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 143
+  },
+  {
+    "id": "436877290",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3099,
+      -7728,
+      -2591,
+      -7224
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 79
+  },
+  {
+    "id": "436877291",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3552,
+      -7856,
+      -3191,
+      -7088
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 130
+  },
+  {
+    "id": "436877292",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3570,
+      -6941,
+      -3232,
+      -5931
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 180
+  },
+  {
+    "id": "436877293",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3037,
+      -6568,
+      -2684,
+      -6107
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 100
+  },
+  {
+    "id": "436877294",
+    "name": "普通建筑（示意）",
+    "box": [
+      -2726,
+      -5696,
+      -2323,
+      -5310
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 104
+  },
+  {
+    "id": "436877295",
+    "name": "普通建筑（示意）",
+    "box": [
+      -3236,
+      -6113,
+      -2975,
+      -5335
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 111
+  },
+  {
+    "id": "436877296",
+    "name": "普通建筑（示意）",
+    "box": [
+      -4484,
+      -7469,
+      -4102,
+      -6155
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 272
+  },
+  {
+    "id": "436877297",
+    "name": "普通建筑（示意）",
+    "box": [
+      -4978,
+      -8309,
+      -3619,
+      -7497
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 494
+  },
+  {
+    "id": "436877298",
+    "name": "普通建筑（示意）",
+    "box": [
+      -4048,
+      -7331,
+      -3705,
+      -6933
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 91
+  },
+  {
+    "id": "436877299",
+    "name": "普通建筑（示意）",
+    "box": [
+      -4019,
+      -6933,
+      -3635,
+      -5975
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 199
+  },
+  {
+    "id": "436877300",
+    "name": "普通建筑（示意）",
+    "box": [
+      -5432,
+      -7222,
+      -4922,
+      -6195
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 255
+  },
+  {
+    "id": "436877301",
+    "name": "普通建筑（示意）",
+    "box": [
+      -4780,
+      -5689,
+      -4357,
+      -4572
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 205
+  },
+  {
+    "id": "436877302",
+    "name": "普通建筑（示意）",
+    "box": [
+      -2740,
+      -4811,
+      -2017,
+      -4297
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 187
+  },
+  {
+    "id": "436877324",
+    "name": "普通建筑（示意）",
+    "box": [
+      -7465,
+      -7583,
+      -6890,
+      -6614
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 215
+  },
+  {
+    "id": "1364944618",
+    "name": "普通建筑（示意）",
+    "box": [
+      -10595,
+      -6283,
+      -10339,
+      -5354
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 101
+  },
+  {
+    "id": "1364944619",
+    "name": "普通建筑（示意）",
+    "box": [
+      -10594,
+      -5446,
+      -10060,
+      -4239
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 205
+  },
+  {
+    "id": "1429461998",
+    "name": "门卫室",
+    "box": [
+      -2755,
+      7577,
+      -2646,
+      7707
+    ],
+    "floors": 1,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 26
+  },
+  {
+    "id": "1206672427",
+    "name": "普通建筑（示意）",
+    "box": [
+      -7296,
+      8882,
+      -5024,
+      9301
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 577
+  },
+  {
+    "id": "1489485192",
+    "name": "普通建筑（示意）",
+    "box": [
+      -10416,
+      10864,
+      -10140,
+      11915
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default, not surveyed",
+    "pieces": 125
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "125465017",
+    "name": "同济大学游泳馆（独立候选）",
+    "box": [
+      -9648,
+      1601,
+      -8294,
+      2942
+    ],
+    "floors": 1,
+    "levelsSource": "roof eaves92/rise72 and rear70 native illustrative, not measured",
+    "pieces": 862
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "183383462",
+    "name": "文远楼（A楼）",
+    "box": [
+      -253,
+      2029,
+      457,
+      3917
+    ],
+    "floors": 3,
+    "levelsSource": "photo-guided three floors, lower lecture wing two visual levels and raised stair head four; 48 native px per level, illustrative not measured",
+    "pieces": 490
+  }
+]

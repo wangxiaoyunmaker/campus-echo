@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1489081642",
+    "name": "蓝顶体育馆（用户指定视觉候选）",
+    "box": [
+      -6284,
+      3440,
+      -5411,
+      4172
+    ],
+    "floors": 2,
+    "levelsSource": "single sports hall represented by two visual window bands, not verified occupied floors",
+    "pieces": 336
+  }
+]

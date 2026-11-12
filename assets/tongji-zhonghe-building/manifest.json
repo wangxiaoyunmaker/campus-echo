@@ -1,0 +1,15 @@
+[
+  {
+    "id": "181555253",
+    "name": "衷和楼",
+    "box": [
+      359,
+      5052,
+      1270,
+      7741
+    ],
+    "floors": 21,
+    "levelsSource": "OSM 27 total, 21 occupied + 6 equipment; facade bands approximate",
+    "pieces": 820
+  }
+]

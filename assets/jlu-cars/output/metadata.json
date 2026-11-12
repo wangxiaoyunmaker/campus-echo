@@ -1,0 +1,182 @@
+[
+  {
+    "name": "car-0-up",
+    "color": 0,
+    "facing": "up",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-0-down",
+    "color": 0,
+    "facing": "down",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-0-left",
+    "color": 0,
+    "facing": "left",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-0-right",
+    "color": 0,
+    "facing": "right",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-1-up",
+    "color": 1,
+    "facing": "up",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-1-down",
+    "color": 1,
+    "facing": "down",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-1-left",
+    "color": 1,
+    "facing": "left",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-1-right",
+    "color": 1,
+    "facing": "right",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-2-up",
+    "color": 2,
+    "facing": "up",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-2-down",
+    "color": 2,
+    "facing": "down",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-2-left",
+    "color": 2,
+    "facing": "left",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-2-right",
+    "color": 2,
+    "facing": "right",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-3-up",
+    "color": 3,
+    "facing": "up",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-3-down",
+    "color": 3,
+    "facing": "down",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-3-left",
+    "color": 3,
+    "facing": "left",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-3-right",
+    "color": 3,
+    "facing": "right",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-4-up",
+    "color": 4,
+    "facing": "up",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-4-down",
+    "color": 4,
+    "facing": "down",
+    "w": 30,
+    "h": 85,
+    "ax": 15,
+    "ay": 80
+  },
+  {
+    "name": "car-4-left",
+    "color": 4,
+    "facing": "left",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  },
+  {
+    "name": "car-4-right",
+    "color": 4,
+    "facing": "right",
+    "w": 66,
+    "h": 49,
+    "ax": 33,
+    "ay": 44
+  }
+]

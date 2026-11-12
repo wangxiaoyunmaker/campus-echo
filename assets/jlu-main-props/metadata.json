@@ -1,0 +1,100 @@
+[
+  {
+    "name": "lamp-main",
+    "w": 12,
+    "h": 38,
+    "ax": 6,
+    "ay": 31
+  },
+  {
+    "name": "bench-main",
+    "w": 32,
+    "h": 21,
+    "ax": 16,
+    "ay": 14
+  },
+  {
+    "name": "bins-main",
+    "w": 17,
+    "h": 19,
+    "ax": 8,
+    "ay": 12
+  },
+  {
+    "name": "bike-yellow-main",
+    "w": 26,
+    "h": 23,
+    "ax": 13,
+    "ay": 17
+  },
+  {
+    "name": "lawnlamp-main",
+    "w": 8,
+    "h": 16,
+    "ax": 4,
+    "ay": 10
+  },
+  {
+    "name": "flower-round-main",
+    "w": 64,
+    "h": 21,
+    "ax": 32,
+    "ay": 14
+  },
+  {
+    "name": "flowers-main",
+    "w": 18,
+    "h": 19,
+    "ax": 9,
+    "ay": 13
+  },
+  {
+    "name": "shrub-main",
+    "w": 18,
+    "h": 20,
+    "ax": 9,
+    "ay": 14
+  },
+  {
+    "name": "tree-main",
+    "w": 38,
+    "h": 52,
+    "ax": 19,
+    "ay": 44
+  },
+  {
+    "name": "blossom-main",
+    "w": 38,
+    "h": 50,
+    "ax": 19,
+    "ay": 42
+  },
+  {
+    "name": "lilac-main",
+    "w": 32,
+    "h": 30,
+    "ax": 16,
+    "ay": 23
+  },
+  {
+    "name": "willow-main",
+    "w": 94,
+    "h": 98,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "poplar-main",
+    "w": 48,
+    "h": 116,
+    "ax": 24,
+    "ay": 108
+  },
+  {
+    "name": "bush-main",
+    "w": 28,
+    "h": 26,
+    "ax": 14,
+    "ay": 20
+  }
+]

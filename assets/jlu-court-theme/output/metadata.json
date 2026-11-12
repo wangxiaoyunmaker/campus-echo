@@ -1,0 +1,16 @@
+[
+  {
+    "name": "badminton-net-down",
+    "w": 96,
+    "h": 22,
+    "ax": 48,
+    "ay": 16
+  },
+  {
+    "name": "badminton-net-left",
+    "w": 8,
+    "h": 102,
+    "ax": 4,
+    "ay": 96
+  }
+]

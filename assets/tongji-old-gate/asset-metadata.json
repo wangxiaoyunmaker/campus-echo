@@ -1,0 +1,31 @@
+{
+  "width": 1909,
+  "height": 824,
+  "alphaBounds": [
+    18,
+    19,
+    1893,
+    812
+  ],
+  "nonzero": 965726,
+  "partial": 962245,
+  "openingSamples": [
+    0,
+    0,
+    0
+  ],
+  "file": "tongji-old-gate-candidate.png",
+  "source": "User pixel-art reference image(20261112-193118).png; imagegen edited isolated candidate",
+  "displayNativeWidth": 336,
+  "displayNativeHeight": 145.03090623363016,
+  "anchor": [
+    954.5,
+    811
+  ],
+  "candidate": true,
+  "notes": [
+    "Gate opening alpha samples are zero; ground navigation must still use original geometry.",
+    "Generated pixel clusters are not a mathematically exact 336px native grid; use nearest-neighbor runtime display.",
+    "Gate lettering and masonry are artistic reproduction of user reference, not measured facade."
+  ]
+}

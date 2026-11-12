@@ -1,0 +1,301 @@
+[
+  {
+    "id": "183383459",
+    "name": "西北一楼",
+    "box": [
+      -1572,
+      -5246,
+      -759,
+      -2286
+    ],
+    "floors": 6,
+    "levelsSource": "OSM tag",
+    "pieces": 647
+  },
+  {
+    "id": "183383465",
+    "name": "未命名住宿楼",
+    "box": [
+      576,
+      -1792,
+      938,
+      -804
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 229
+  },
+  {
+    "id": "183383470",
+    "name": "未命名住宿楼",
+    "box": [
+      -98,
+      -1892,
+      263,
+      -905
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 216
+  },
+  {
+    "id": "183383473",
+    "name": "西南二楼",
+    "box": [
+      -7473,
+      -2129,
+      -7151,
+      -71
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 218
+  },
+  {
+    "id": "183383478",
+    "name": "未命名住宿楼",
+    "box": [
+      -50,
+      -3250,
+      1431,
+      -1968
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 375
+  },
+  {
+    "id": "183383481",
+    "name": "学五楼",
+    "box": [
+      1233,
+      -1774,
+      1680,
+      -217
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 171
+  },
+  {
+    "id": "183383952",
+    "name": "解放楼",
+    "box": [
+      -6909,
+      956,
+      -6297,
+      3354
+    ],
+    "floors": 2,
+    "levelsSource": "OSM tag",
+    "pieces": 334
+  },
+  {
+    "id": "183383966",
+    "name": "青年楼",
+    "box": [
+      -6132,
+      1071,
+      -5414,
+      2602
+    ],
+    "floors": 2,
+    "levelsSource": "OSM tag",
+    "pieces": 253
+  },
+  {
+    "id": "183388116",
+    "name": "西南七楼",
+    "box": [
+      -8734,
+      -1692,
+      -7792,
+      -724
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 330
+  },
+  {
+    "id": "183388117",
+    "name": "西南八楼",
+    "box": [
+      -8758,
+      -3204,
+      -7326,
+      -1787
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 694
+  },
+  {
+    "id": "183388118",
+    "name": "西南九楼",
+    "box": [
+      -8735,
+      -4492,
+      -7287,
+      -3286
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 488
+  },
+  {
+    "id": "183388124",
+    "name": "西南三楼",
+    "box": [
+      -7069,
+      -3272,
+      -6765,
+      -2257
+    ],
+    "floors": 3,
+    "levelsSource": "OSM tag",
+    "pieces": 203
+  },
+  {
+    "id": "183388126",
+    "name": "干训楼",
+    "box": [
+      -8733,
+      -999,
+      -7811,
+      -19
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 261
+  },
+  {
+    "id": "183964056",
+    "name": "西北三楼",
+    "box": [
+      -2083,
+      -6750,
+      -705,
+      -5077
+    ],
+    "floors": 6,
+    "levelsSource": "OSM tag",
+    "pieces": 498
+  },
+  {
+    "id": "183964063",
+    "name": "西北五楼",
+    "box": [
+      17,
+      -6374,
+      835,
+      -4712
+    ],
+    "floors": 6,
+    "levelsSource": "OSM tag",
+    "pieces": 296
+  },
+  {
+    "id": "183964064",
+    "name": "西北四楼",
+    "box": [
+      -735,
+      -6542,
+      83,
+      -4881
+    ],
+    "floors": 6,
+    "levelsSource": "OSM tag",
+    "pieces": 313
+  },
+  {
+    "id": "381876810",
+    "name": "同济大学博士生公寓1号楼",
+    "box": [
+      -7489,
+      -8608,
+      -6770,
+      -7877
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 178
+  },
+  {
+    "id": "406761637",
+    "name": "留学生宿舍",
+    "box": [
+      1069,
+      854,
+      1266,
+      1884
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 94
+  },
+  {
+    "id": "436877316",
+    "name": "未命名住宿楼",
+    "box": [
+      -8544,
+      -7395,
+      -8011,
+      -6588
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 159
+  },
+  {
+    "id": "436877317",
+    "name": "未命名住宿楼",
+    "box": [
+      -9658,
+      -8074,
+      -9125,
+      -7267
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 148
+  },
+  {
+    "id": "436877319",
+    "name": "未命名住宿楼",
+    "box": [
+      -10455,
+      -7450,
+      -9922,
+      -6643
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 138
+  },
+  {
+    "id": "436877321",
+    "name": "未命名住宿楼",
+    "box": [
+      -8669,
+      -8372,
+      -7982,
+      -7582
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 220
+  },
+  {
+    "id": "1465759871",
+    "name": "西南一楼",
+    "box": [
+      -7010,
+      -4472,
+      -4044,
+      -3229
+    ],
+    "floors": 3,
+    "levelsSource": "illustrative default 3, unverified",
+    "pieces": 1095
+  }
+]

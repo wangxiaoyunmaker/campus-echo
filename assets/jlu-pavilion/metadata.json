@@ -1,0 +1,37 @@
+[
+  {
+    "name": "pavilion-main",
+    "w": 94,
+    "h": 95,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "pavilion-side-down",
+    "w": 94,
+    "h": 95,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "pavilion-side-left",
+    "w": 94,
+    "h": 95,
+    "ax": 47,
+    "ay": 90
+  },
+  {
+    "name": "pergola-down",
+    "w": 66,
+    "h": 64,
+    "ax": 33,
+    "ay": 55
+  },
+  {
+    "name": "pergola-left",
+    "w": 34,
+    "h": 99,
+    "ax": 17,
+    "ay": 93
+  }
+]
