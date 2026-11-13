@@ -1,0 +1,2 @@
+Unmodified original JLU main-world procedural sprites: raster.T[id].draw(seed,'down','summer'), ids planter/trough/pot/stone-planter. Exported from downloaded raster-_AffYBv6.js, not minimap. Decoded RGBA with original anchors and palette. Current implementation uses planter-1 and trough-1; bench-main already in project is original raster.J().
+Photo-informed approximate furnishing; not surveyed. Existing tree objects, ground polygons and circulation remain unchanged.
