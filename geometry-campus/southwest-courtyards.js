@@ -1,4 +1,5 @@
 // Tongji user annotated plan + satellite, 2026-11-13.
+// Fountain center follows mapped circular path 189248351 (bbox midpoint); outer paving covers its full width.
 // Geography retained. Individual trunks and plaza dimensions are photo estimates.
 export const southwestLayout = Object.freeze({
   buildingId:'1465759871', courtyardIds:['183388131','183388130'],
@@ -6,7 +7,7 @@ export const southwestLayout = Object.freeze({
     {id:'southwest-middle-wing-grove',ring:[[-946,-538],[-905,-536],[-908,-458],[-949,-460]]},
     {id:'southwest-supermarket-east-grove',ring:[[-1014,-406],[-978,-404],[-981,-359],[-1017,-361]]}
   ],
-  plaza:{x:-951,y:-384,radius:22,fountainRadius:8.5},
+  plaza:{x:-948.135,y:-388.555,radius:27.5,fountainRadius:8.5},
   unmodified:'Green outlined area to east of fountain has no requested change.'
 });
 const inRing=(ring,x,y)=>{let hit=false;for(let i=0,j=ring.length-1;i<ring.length;j=i++){const a=ring[i],b=ring[j];if((a[1]>y)!==(b[1]>y)&&x<(b[0]-a[0])*(y-a[1])/(b[1]-a[1])+a[0])hit=!hit;}return hit;};
@@ -23,10 +24,10 @@ export function applySouthwestCourtyards({props,features,contains,blocked,roads,
   }));
   const roadClear=(x,y)=>!roads.some(r=>distanceToLine(r,x,y)<(['footway','path','pedestrian','steps'].includes(r.highway)?5:11.5)+2);
   const planted=[];
-  function add(x,y,zone){if(blocked(x,y)||!roadClear(x,y))return false;const p={name:'front-canopy',originalKind:'oak',x,y,southwestZone:zone};props.items.push(p);planted.push(p);return true;}
+  function add(x,y,zone,kind='oak',scale=2){if(blocked(x,y)||!roadClear(x,y))return false;const names={oak:'large-tree-summer-2',poplar:'poplar-summer-2',spruce:'pine-summer-1',tree:'tree-summer-2'};const p={name:zone.startsWith('courtyard')?'front-canopy':names[kind],originalKind:kind,renderScale:scale,x,y,southwestZone:zone};props.items.push(p);planted.push(p);return true;}
   for(const f of lawns){const ring=f.polys[0][0],pts=ring.slice(0,-1),x=pts.reduce((n,p)=>n+p[0],0)/pts.length,y=pts.reduce((n,p)=>n+p[1],0)/pts.length; if(!add(x,y,'courtyard-'+f.osm_id))throw Error('Central courtyard tree collides with mapped route');}
-  for(const g of southwestLayout.groves){const xs=g.ring.map(p=>p[0]),ys=g.ring.map(p=>p[1]);let row=0;for(let y=Math.min(...ys)+10;y<Math.max(...ys)-4;y+=12,row++)for(let x=Math.min(...xs)+7+(row%2)*6;x<Math.max(...xs)-4;x+=13)if(inRing(g.ring,x,y))add(x,y,g.id);}
-  props.southwestStats=()=>({removed,centralTrees:planted.filter(p=>p.southwestZone.startsWith('courtyard')).length,groveTrees:planted.filter(p=>!p.southwestZone.startsWith('courtyard')).length,blocked:planted.filter(p=>blocked(p.x,p.y)).length,roadOverlap:planted.filter(p=>!roadClear(p.x,p.y)).length,layout:southwestLayout,source:'user annotated P1 + P2; JLU mature oak sprites; photo-estimated trunk positions'});
+  for(const g of southwestLayout.groves){const xs=g.ring.map(p=>p[0]),ys=g.ring.map(p=>p[1]);let row=0;for(let y=Math.min(...ys)+10;y<Math.max(...ys)-4;y+=12,row++)for(let x=Math.min(...xs)+7+(row%2)*6;x<Math.max(...xs)-4;x+=13)if(inRing(g.ring,x,y)){const seed=(row*7+Math.floor(x))>>>0,kind=['oak','poplar','spruce','tree','oak'][seed%5];add(x+Math.sin(seed)*1.8,y+Math.cos(seed)*1.5,g.id,kind,kind==='spruce'?1.45:1.25+(seed%3)*.12);}}
+  props.southwestStats=()=>({removed,centralTrees:planted.filter(p=>p.southwestZone.startsWith('courtyard')).length,groveTrees:planted.filter(p=>!p.southwestZone.startsWith('courtyard')).length,blocked:planted.filter(p=>blocked(p.x,p.y)).length,roadOverlap:planted.filter(p=>!roadClear(p.x,p.y)).length,layout:southwestLayout,source:'user annotated P1 + P2; JLU mixed oak / poplar / spruce / irregular deciduous sprites; photo-estimated trunk positions'});
   return props.southwestStats();
 }
 
