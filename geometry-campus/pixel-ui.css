@@ -14,3 +14,17 @@ button:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #215
 @media(max-width:1000px){#mapTop strong{display:none}#miniPanel{top:82px!important}}
 @media(max-width:700px){#mapTop{left:8px!important;top:8px!important;max-width:calc(100vw - 38px);gap:4px!important}#mapTop button{font-size:12px!important;padding:6px 8px!important;min-height:40px}#miniPanel{top:74px!important;right:8px!important;width:140px}#miniPanel.expanded{width:calc(100vw - 40px)!important;max-height:calc(100dvh - 180px);overflow:auto}#miniPanel.expanded #miniMap{height:min(260px,34dvh)}#mapHelp{right:8px!important;bottom:24px!important;left:auto!important;max-width:calc(100vw - 40px)!important;font-size:10px!important}#languageToggle{right:12px;bottom:88px}#legacyOptions{top:72px!important;max-height:calc(100dvh - 120px)}#miniSelection{font-size:11px}}
 @media(prefers-reduced-motion:reduce){#mapTop *,#miniPanel *{transition:none!important}}
+
+/* Suppress iOS text selection/callout only on game surfaces and controls.
+   Form fields, source links and page text retain native selection/accessibility. */
+#scene,#miniMap,#touchWalk,#touchWalk button,#mapTop button,#miniPanel button,#languageToggle{
+  -webkit-user-select:none;user-select:none;-webkit-touch-callout:none;
+}
+#touchWalk button{touch-action:none;-webkit-tap-highlight-color:transparent}
+#touchWalk button.held{filter:brightness(.86);transform:translateY(2px)}
+#miniContent[hidden]{display:none!important}
+#miniPanel.collapsed{width:auto!important;max-width:190px}
+#miniPanel.collapsed .minihead{margin-bottom:0;gap:10px}
+#miniPanel .minihead{gap:8px}
+#expandMini{width:100%;margin:0 0 8px!important}
+@media(max-width:700px){#miniPanel.collapsed{padding:6px 8px!important}#miniPanel.collapsed .minihead b{font-size:12px}#miniPanel.collapsed button{min-height:44px;padding:6px 8px}}
