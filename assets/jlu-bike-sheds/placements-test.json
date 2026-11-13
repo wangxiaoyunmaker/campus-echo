@@ -1,0 +1,38 @@
+[
+  {
+    "name": "bikeshed-1",
+    "x": -253.9298561540914,
+    "y": -362.96557071608066,
+    "dormId": "183383459",
+    "dormName": "西北一楼",
+    "illustrative": true,
+    "bikeShelter": true
+  },
+  {
+    "name": "bikeshed-2",
+    "x": -1519.659060526782,
+    "y": -531.9953352920982,
+    "dormId": "183388117",
+    "dormName": "西南八楼",
+    "illustrative": true,
+    "bikeShelter": true
+  },
+  {
+    "name": "bikeshed-3",
+    "x": -1515.8857951327232,
+    "y": -746.6327785095089,
+    "dormId": "183388118",
+    "dormName": "西南九楼",
+    "illustrative": true,
+    "bikeShelter": true
+  },
+  {
+    "name": "bikeshed-1",
+    "x": 160.11804452597184,
+    "y": 240.34891696628637,
+    "dormId": "406761637",
+    "dormName": "留学生宿舍",
+    "illustrative": true,
+    "bikeShelter": true
+  }
+]

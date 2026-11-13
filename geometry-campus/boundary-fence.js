@@ -1,0 +1,12 @@
+import {renderOriginalFence} from '../assets/jlu-fence/original-fence.mjs';
+// Only an independently mapped metal-fence line, NOT the administrative polygon.
+// Original JLU low railing style; actual height/material detail is not surveyed.
+export async function makeVerifiedFence(project,roads){
+ const data=await fetch(new URL('./data/verified-fence-segments.json',import.meta.url)).then(r=>{if(!r.ok)throw Error('Fence data '+r.status);return r.json()});
+ const segments=[];let cleared=0;
+ function roadNear(x,y){return roads.some(r=>r.indoor!=='yes'&&r.tunnel!=='yes'&&Number(r.layer||0)>=0&&r.coords.slice(1).some((b,i)=>{const a=r.coords[i],dx=b[0]-a[0],dy=b[1]-a[1],t=Math.max(0,Math.min(1,((x-a[0])*dx+(y-a[1])*dy)/(dx*dx+dy*dy||1)));return Math.hypot(x-a[0]-t*dx,y-a[1]-t*dy)<(['footway','path','steps','pedestrian'].includes(r.highway)?6:13)}))}
+ for(const line of data.lines){const pts=line.coordinates.map(project);for(let i=1;i<pts.length;i++){const a=pts[i-1],b=pts[i],len=Math.hypot(b[0]-a[0],b[1]-a[1]),n=Math.ceil(len/4);let run=[];const flush=()=>{if(run.length>1)for(let j=1;j<run.length;j++)segments.push({a:run[j-1],b:run[j]});run=[]};for(let j=0;j<=n;j++){const t=j/n,p=[a[0]+(b[0]-a[0])*t,a[1]+(b[1]-a[1])*t];if(roadNear(...p)){flush();cleared++}else run.push(p)}flush()}}
+ const cache=new Map();let enabled=true;
+ function objects(view,zoom){if(!enabled)return[];return segments.filter(s=>Math.max(s.a[0],s.b[0])>=view.x-5&&Math.min(s.a[0],s.b[0])<=view.x+view.w+5&&Math.max(s.a[1],s.b[1])>=view.y-5&&Math.min(s.a[1],s.b[1])<=view.y+view.h+5).map((s)=>({y:Math.max(s.a[1],s.b[1]),draw:c=>{if(zoom<2){c.strokeStyle='#71817b';c.lineWidth=.8;c.beginPath();c.moveTo(...s.a);c.lineTo(...s.b);c.stroke();return}let art=cache.get(s);if(!art){const out=renderOriginalFence([{pts:[s.a,s.b].map(p=>p.map(v=>v*6))}]),im=new ImageData(new Uint8ClampedArray(out.bm.px.buffer),out.bm.w,out.bm.h),can=document.createElement('canvas');can.width=out.bm.w;can.height=out.bm.h;can.getContext('2d').putImageData(im,0,0);art={can,x:out.x0/6,y:out.y0/6};cache.set(s,art)}c.drawImage(art.can,art.x,art.y,art.can.width/6,art.can.height/6)}}))}
+ return {objects,toggle:()=>enabled=!enabled,stats:()=>({enabled,source:data.source,segments:segments.length,roadClearSamples:cleared,cached:cache.size,heightVerified:false,collision:'original campus collision unchanged'}),point:segments.length?segments[Math.floor(segments.length*.75)].a:null};
+}

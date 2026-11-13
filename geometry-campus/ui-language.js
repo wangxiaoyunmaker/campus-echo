@@ -1,0 +1,36 @@
+/* UI-only translation. Geographic names remain exactly as authored in map data. */
+const pairs={
+'同济校园':'Tongji Campus','同济 · 主校区 + 东校区':'Tongji · Main & East Campus','数字地图':'Digital map','全景图':'Explore','更多选项':'Options','展开':'Expand','收起':'Collapse','选择地点…':'Choose a place…','点击地图或选择地点':'Tap the map or choose a place','前往此地点':'Travel here','地图选点':'Map point','选择校园地点':'Choose a campus location','选择地点':'Choose a place','数字地图 · 悬停 / 轻点查看名称，拖动查看，双指缩放':'Hover / tap for names · Drag to pan · Pinch to zoom','WASD / 方向键行走 · 拖动平移 · 双指缩放':'WASD / arrows to walk · Drag to pan · Pinch to zoom','附近未找到安全落点，请重新选择':'No walkable spot nearby. Choose another place.',
+'进入近景漫游':'Start exploring','切回轻量底图':'Return to digital map','素材全景':'Full scenery','全校数字地图':'Campus overview','主校区':'Main campus','东校区':'East campus','景观定位':'Find a landmark','回到人物':'Find my character','到图书馆':'Visit the library','建筑像素：简化':'Building pixels: simple','建筑像素：原版':'Building pixels: original','图书馆美术：开':'Library art: on','图书馆美术：关':'Library art: off','自然动效：开':'Nature animation: on','自然动效：关':'Nature animation: off','亭桥候选：关':'Pavilion preview: off','亭桥：近似 · 不可走':'Pavilion: approximate / not walkable','地点标注：开':'Place labels: on','地点标注：关':'Place labels: off','季节：秋景':'Season: autumn','季节：夏景':'Season: summer','骑行 / 下车 · E':'Ride / dismount · E','查看已核栏段':'View mapped fence','东区素材定位':'Explore east campus','校门外路口':'Gate intersection',
+'小鸭与水草':'Ducks & water plants','自行车':'Bicycles','电动踏板车':'E-scooters','小鸟':'Birds','踏脚石路':'Stepping stones','步桥':'Footbridge','斑马线':'Crosswalk','足球场':'Football field','网球场':'Tennis courts','篮球场':'Basketball courts','图书馆前庭':'Library forecourt','红砖步道':'Red-brick path','住宿楼首批 · 23栋':'Dormitories · 23 buildings','教学楼照片适配':'Teaching buildings · photo studies','普通教学楼 · 通用外观':'Teaching buildings · generic facades','体育设施定位':'Sports facilities','附属建筑 · 属性示意':'Service buildings · approximations','照片审阅：关闭':'Photo previews: off',
+'向上行走':'Walk up','向左行走':'Walk left','向下行走':'Walk down','向右行走':'Walk right'
+};
+Object.assign(pairs,{
+'正在生成局部缓存…':'Preparing scene cache…',
+'素材来源：':'Asset credits: ', '来源与说明':'Sources & notes',
+'校门回退旧版':'Use earlier gate','校门使用组员版':'Use refined gate',
+'住宿楼使用吉大通用立面，并非同济实测外观':'Dormitories use generic JLU facades, not surveyed Tongji appearances.',
+'OSM 属性引导近似，非实景测绘':'Approximated from OSM attributes; not a site survey.',
+'官方照片引导候选；入口朝向未核实，默认关闭':'Photo-based previews; entrance directions are unverified. Off by default.',
+'屋顶分区方向仍在核对，原地理及碰撞保留':'Roof orientation is under review. Original geometry and collision are preserved.',
+'正式馆名、高度未核；原JLU渲染加弧顶高度适配，尺寸近似':'Name and height unverified; adapted JLU rendering with an approximate curved roof.',
+'灰白/锈红分区与斜屋面为照片近似，北端上下叠置尚未重建':'Photo-based grey/red roof approximation; the northern stacked volumes are not reconstructed.',
+'玻璃门厅所在短端、屋顶细节尚未校核；仅照片候选，不更改原占地':'Photo preview only; entrance and roof details are unverified. Footprint unchanged.',
+'卫星图引导的屋面近似，内部结构与高度未测量；保留原碰撞':'Satellite-guided roof approximation. Heights and interiors are not surveyed; original collision retained.',
+'按用户箭头指定蓝馆视觉适配目标占地；高度/真实外形未经实测':'Blue-roof visual fitted to the indicated footprint; actual height and form are not surveyed.',
+'原道路坐标，车道宽度、安全岛与棚灯为照片近似；并非测绘':'Original road coordinates; lane widths, islands, shelters and lights are photo approximations.',
+'OSM 49247577 独立金属栏线；非全校围墙，实际高度未核，保持原碰撞':'Separate mapped metal fence, not a complete campus wall. Height unverified; collision unchanged.'
+});
+const parts=[[' · 将前往最近可通行位置',' · Travel to the nearest walkable spot'],['已到达：','Arrived near: '],['候选：',' preview: '],['：开',': on'],['：关',': off'],['：暂停',': paused'],[' · 照片候选',' · photo preview'],[' · 位置示意',' · approximate location'],[' · 原帧适配',' · original sprite'],[' · E上下车',' · E to ride'],[' · 已有步道入口',' · path entrance'],[' · 已有外部入口',' · entrance'],['（示意）',' (approximate)'],['西侧金属栏段','West metal fence'],['路口动效','Traffic animation'],['东区组员素材','East campus assets'],['普通楼补齐','Generic buildings'],['两馆屋面候选','Sports roof previews'],['新增蓝馆实体','Blue-roof building'],[' · 青绿屋顶',' · teal roof'],[' · 黄绿屋顶',' · yellow-green roof'],[' · 灰绿分区屋面',' · grey-green roof'],[' · 白弧屋盖',' · white curved roof'],[' · 两层四坡顶',' · two-storey hip roof'],[' · 两层平顶',' · two-storey flat roof'],[' · 组员细化',' · refined model'],[' · 旧候选',' · earlier preview'],[' · 弧顶候选',' · curved-roof preview'],[' · 分体候选',' · split-volume preview'],[' · 身份/朝向候选',' · identity/orientation preview'],[' · 玻璃厅候选',' · glass-hall preview'],[' · 平面分层候选',' · layered-plan preview'],[' · 材料候选',' · material preview'],[' · 照片风格候选',' · photo-style preview'],[' 个原始建筑轮廓',' building footprints'],[' 处水面',' water bodies'],[' 条道路',' roads'],['主校区 + 东校区','Main + East campus'],['仅可见区缓存（48MB上限），静止不重绘','Viewport cache (48 MB); no repaint while idle']];
+export function translateUI(text,lang){if(lang!=='en')return text;if(pairs[text])return pairs[text];if(text.startsWith('已到达：')&&text.endsWith('附近'))return 'Arrived near: '+text.slice(4,-2);let out=text;for(const [a,b]of parts)out=out.split(a).join(b);return out}
+export function mountLanguage(){
+ let lang='zh';try{lang=localStorage.getItem('campus-language')==='en'?'en':'zh'}catch{}
+ const originals=new WeakMap();const button=document.createElement('button');button.id='languageToggle';button.type='button';document.body.append(button);
+ function updateNode(node){const current=node.nodeValue,record=originals.get(node);const original=record&&current===record.rendered?record.original:current;const rendered=translateUI(original,lang);originals.set(node,{original,rendered});if(current!==rendered)node.nodeValue=rendered}
+ function refresh(){document.documentElement.lang=lang==='en'?'en':'zh-CN';document.title=lang==='en'?'Tongji Campus · Explore':'同济校园 · 自由探索';button.textContent=lang==='en'?'中文':'EN';button.setAttribute('aria-label',lang==='en'?'Switch to Chinese':'切换为英文');button.title=button.getAttribute('aria-label');
+ for(const root of document.querySelectorAll('#mapTop,#miniPanel,#legacyOptions,#mapHelp,#touchWalk')){const walker=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);let node;while(node=walker.nextNode())if(!['SCRIPT','STYLE'].includes(node.parentElement?.tagName))updateNode(node);for(const el of root.querySelectorAll('[title]')){const original=el.dataset.titleOriginal||el.title;el.dataset.titleOriginal=original;el.title=translateUI(original,lang)}for(const el of root.querySelectorAll('[aria-label]')){const original=el.dataset.labelOriginal||el.getAttribute('aria-label');el.dataset.labelOriginal=original;el.setAttribute('aria-label',translateUI(original,lang))}}
+ }
+ let pending=false;const observer=new MutationObserver(records=>{if(!records.some(r=>r.target.parentElement?.closest?.('#mapTop,#miniPanel,#legacyOptions,#mapHelp,#touchWalk')||r.target.closest?.('#mapTop,#miniPanel,#legacyOptions,#mapHelp,#touchWalk')))return;if(!pending){pending=true;queueMicrotask(()=>{pending=false;observer.disconnect();refresh();observe()})}});
+ function observe(){observer.observe(document.body,{childList:true,subtree:true,characterData:true})}
+ button.onclick=()=>{lang=lang==='zh'?'en':'zh';try{localStorage.setItem('campus-language',lang)}catch{}observer.disconnect();refresh();observe()};refresh();observe();return{refresh,get language(){return lang}};
+}

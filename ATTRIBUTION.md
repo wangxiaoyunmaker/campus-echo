@@ -6,3 +6,8 @@
 - 地理数据：© OpenStreetMap contributors，依据 ODbL 1.0 使用与适配。https://www.openstreetmap.org/copyright ；https://opendatacommons.org/licenses/odbl/1-0/ 。数据见 combined-map-data.json。
 - 同济建筑候选图、场景布局和东区适配素材由本项目制作或组员提供。
 - 本发布副本不含校园参考照片、原始 PDF、密钥或本地用户路径。请勿将本项目的代码或素材整体视为 MIT/CC0 等通用开源许可。
+
+## 本轮新增内容
+
+- 西侧金属栏段来自 OpenStreetMap way 49247577，仅代表可核实的单独线段，不是全校围墙；栏杆渲染复用像素吉大原函数，真实高度未核实。
+- 宿舍车棚、地面雀鸟及路面细节复用像素吉大原素材/行为，并做宿主坐标适配；各目录保留来源说明。车棚、消防栓和排水设施位置为演示布局，不是实测设施清单。

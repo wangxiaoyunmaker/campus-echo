@@ -1,0 +1,36 @@
+{
+  "source": "https://api.openstreetmap.org/api/0.6/way/49247577/full",
+  "scope": "OSM-mapped west-side metal fence near southwest gate; not verified full campus boundary",
+  "heightVerified": false,
+  "lines": [
+    {
+      "id": "49247577",
+      "coordinates": [
+        [
+          121.4920506,
+          31.286276
+        ],
+        [
+          121.4925382,
+          31.2859951
+        ],
+        [
+          121.4924172,
+          31.2855949
+        ],
+        [
+          121.4929727,
+          31.2853678
+        ],
+        [
+          121.4924939,
+          31.284451
+        ],
+        [
+          121.4922522,
+          31.283988
+        ]
+      ]
+    }
+  ]
+}

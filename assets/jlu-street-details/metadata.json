@@ -1,0 +1,349 @@
+[
+  {
+    "name": "hydrant",
+    "w": 12,
+    "h": 20,
+    "ax": 6,
+    "ay": 13,
+    "originalExportName": "hydrant",
+    "kind": "hydrant"
+  },
+  {
+    "name": "drain-grate",
+    "w": 17,
+    "h": 17,
+    "ax": 8,
+    "ay": 8,
+    "originalExportName": "drain-grate",
+    "kind": "drain"
+  },
+  {
+    "name": "round-manhole",
+    "w": 17,
+    "h": 17,
+    "ax": 8,
+    "ay": 8,
+    "originalExportName": "round-manhole",
+    "kind": "drain"
+  },
+  {
+    "name": "square-manhole",
+    "w": 12,
+    "h": 12,
+    "ax": 6,
+    "ay": 6,
+    "source": "slab-details",
+    "crop": [
+      561,
+      212,
+      573,
+      224
+    ],
+    "originalExportName": "slab-details-9",
+    "kind": "drain"
+  },
+  {
+    "name": "asphalt-crack-0",
+    "w": 13,
+    "h": 13,
+    "ax": 6,
+    "ay": 6,
+    "source": "asphalt-details",
+    "crop": [
+      518,
+      0,
+      531,
+      13
+    ],
+    "originalExportName": "asphalt-details-0",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-1",
+    "w": 11,
+    "h": 33,
+    "ax": 5,
+    "ay": 16,
+    "source": "asphalt-details",
+    "crop": [
+      789,
+      65,
+      800,
+      98
+    ],
+    "originalExportName": "asphalt-details-1",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-2",
+    "w": 11,
+    "h": 26,
+    "ax": 5,
+    "ay": 13,
+    "source": "asphalt-details",
+    "crop": [
+      8,
+      66,
+      19,
+      92
+    ],
+    "originalExportName": "asphalt-details-2",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-3",
+    "w": 31,
+    "h": 12,
+    "ax": 15,
+    "ay": 6,
+    "source": "asphalt-details",
+    "crop": [
+      741,
+      117,
+      772,
+      129
+    ],
+    "originalExportName": "asphalt-details-4",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-4",
+    "w": 18,
+    "h": 7,
+    "ax": 9,
+    "ay": 3,
+    "source": "asphalt-details",
+    "crop": [
+      574,
+      151,
+      592,
+      158
+    ],
+    "originalExportName": "asphalt-details-5",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-5",
+    "w": 9,
+    "h": 23,
+    "ax": 4,
+    "ay": 11,
+    "source": "asphalt-details",
+    "crop": [
+      725,
+      265,
+      734,
+      288
+    ],
+    "originalExportName": "asphalt-details-9",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-6",
+    "w": 28,
+    "h": 8,
+    "ax": 14,
+    "ay": 4,
+    "source": "asphalt-details",
+    "crop": [
+      456,
+      413,
+      484,
+      421
+    ],
+    "originalExportName": "asphalt-details-14",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-7",
+    "w": 20,
+    "h": 14,
+    "ax": 10,
+    "ay": 7,
+    "source": "asphalt-details",
+    "crop": [
+      67,
+      446,
+      87,
+      460
+    ],
+    "originalExportName": "asphalt-details-15",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "asphalt-crack-8",
+    "w": 12,
+    "h": 22,
+    "ax": 6,
+    "ay": 11,
+    "source": "asphalt-details",
+    "crop": [
+      498,
+      458,
+      510,
+      480
+    ],
+    "originalExportName": "asphalt-details-16",
+    "kind": "asphalt-crack"
+  },
+  {
+    "name": "paving-crack-0",
+    "w": 15,
+    "h": 15,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      368,
+      0,
+      383,
+      15
+    ],
+    "originalExportName": "slab-details-0",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-1",
+    "w": 15,
+    "h": 14,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      1000,
+      48,
+      1015,
+      62
+    ],
+    "originalExportName": "slab-details-1",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-2",
+    "w": 15,
+    "h": 14,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      176,
+      64,
+      191,
+      78
+    ],
+    "originalExportName": "slab-details-2",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-3",
+    "w": 15,
+    "h": 14,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      576,
+      64,
+      591,
+      78
+    ],
+    "originalExportName": "slab-details-3",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-4",
+    "w": 15,
+    "h": 14,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      688,
+      96,
+      703,
+      110
+    ],
+    "originalExportName": "slab-details-4",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-5",
+    "w": 15,
+    "h": 15,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      216,
+      176,
+      231,
+      191
+    ],
+    "originalExportName": "slab-details-6",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-6",
+    "w": 15,
+    "h": 15,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      208,
+      191,
+      223,
+      206
+    ],
+    "originalExportName": "slab-details-7",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-7",
+    "w": 15,
+    "h": 14,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      512,
+      192,
+      527,
+      206
+    ],
+    "originalExportName": "slab-details-8",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-8",
+    "w": 15,
+    "h": 15,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      744,
+      240,
+      759,
+      255
+    ],
+    "originalExportName": "slab-details-12",
+    "kind": "pavement-crack"
+  },
+  {
+    "name": "paving-crack-9",
+    "w": 15,
+    "h": 15,
+    "ax": 7,
+    "ay": 7,
+    "source": "slab-details",
+    "crop": [
+      152,
+      271,
+      167,
+      286
+    ],
+    "originalExportName": "slab-details-16",
+    "kind": "pavement-crack"
+  }
+]
